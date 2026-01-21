@@ -19,6 +19,7 @@ Step 1: Sequence Retrieval
 	•	Gene ID: 23521
 	•	Reference mRNA: NM_012423.4
 	•	The FASTA sequence of the transcript was used as the PCR template.
+	https://github.com/arijeet006/myist_activity/blob/1cc48f3ea298ac6f68b3130c75ded5e0ae3b6947/Screenshot%201.png
 
 Step 2: Primer Design (Primer-BLAST)
 
