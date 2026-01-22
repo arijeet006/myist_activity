@@ -35,6 +35,7 @@ Parameters used:
 	•	Maximum: 63°C
 	•	Primer location: Exon–exon junction (to avoid genomic DNA amplification)
 	•	Specificity database: Human genome (Homo sapiens, taxid: 9606)
+	https://github.com/arijeet006/myist_activity/blob/66617cafc1cefa38065defd4c9db18a5280f4990/Screenshot%205.png
 
   # Results
 .Designed Primer Sequences
