@@ -23,6 +23,7 @@ Step 1: Sequence Retrieval
 	https://github.com/arijeet006/myist_activity/blob/1cc48f3ea298ac6f68b3130c75ded5e0ae3b6947/Screenshot%201.png
 	https://github.com/arijeet006/myist_activity/blob/3e5e4e69bd82d332706460486a9e1cf8962e7ece/Screenshot%202.png
 	https://github.com/arijeet006/myist_activity/blob/7c483d4a53a5de1e4e277396db96c69a6f300908/Screenshot%203.png
+	https://github.com/arijeet006/myist_activity/blob/a83198c8ab59c051fb93e20c4a7c1671d75664ba/Screenshot%204.png
 
 Step 2: Primer Design (Primer-BLAST)
 
