@@ -8,8 +8,9 @@ RPL13A (Ribosomal Protein L13a) is a structural component of the 60S ribosomal s
 	1.	Retrieve the human RPL13A mRNA sequence from NCBI
 	2.	Design specific PCR primers using Primer-BLAST
 	3.	Evaluate primer quality (Tm, GC content, secondary structures)
-	4.	Perform in-silico specificity analysis against the human genome
+	4.	Perform in-silico specificity analysis against the human 
 
+https://github.com/arijeet006/myist_activity/blob/9882f384636ab41cc96337ae1ea0b387a1069faa/Screenshot%201.png
   # Methodology
 
 Step 1: Sequence Retrieval
