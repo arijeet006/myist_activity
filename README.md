@@ -11,7 +11,7 @@ RPL13A (Ribosomal Protein L13a) is a structural component of the 60S ribosomal s
 	3.	Evaluate primer quality (Tm, GC content, secondary structures)
 	4.	Perform in-silico specificity analysis against the human 
 
-https://github.com/arijeet006/myist_activity/blob/9882f384636ab41cc96337ae1ea0b387a1069faa/Screenshot%201.png
+![Screenshot](https://github.com/arijeet006/myist_activity/blob/9882f384636ab41cc96337ae1ea0b387a1069faa/Screenshot%201.png)
   # Methodology
 
 Step 1: Sequence Retrieval
@@ -21,10 +21,11 @@ Step 1: Sequence Retrieval
 	•	Gene ID: 23521
 	•	Reference mRNA: NM_012423.4
 	•	The FASTA sequence of the transcript was used as the PCR template.
-	https://github.com/arijeet006/myist_activity/blob/1cc48f3ea298ac6f68b3130c75ded5e0ae3b6947/Screenshot%201.png
-	https://github.com/arijeet006/myist_activity/blob/3e5e4e69bd82d332706460486a9e1cf8962e7ece/Screenshot%202.png
-	https://github.com/arijeet006/myist_activity/blob/7c483d4a53a5de1e4e277396db96c69a6f300908/Screenshot%203.png
-	https://github.com/arijeet006/myist_activity/blob/a83198c8ab59c051fb93e20c4a7c1671d75664ba/Screenshot%204.png
+	![Screenshot](https://github.com/arijeet006/myist_activity/blob/1cc48f3ea298ac6f68b3130c75ded5e0ae3b6947/Screenshot%201.png)
+	![Screenshot](https://github.com/arijeet006/myist_activity/blob/1cc48f3ea298ac6f68b3130c75ded5e0ae3b6947/Screenshot%201.png)
+	![Screenshot](https://github.com/arijeet006/myist_activity/blob/3e5e4e69bd82d332706460486a9e1cf8962e7ece/Screenshot%202.png)
+	![Screenshot](https://github.com/arijeet006/myist_activity/blob/7c483d4a53a5de1e4e277396db96c69a6f300908/Screenshot%203.png)
+	![Screenshot](https://github.com/arijeet006/myist_activity/blob/a83198c8ab59c051fb93e20c4a7c1671d75664ba/Screenshot%204.png)
 
 Step 2: Primer Design (Primer-BLAST)
 
@@ -36,7 +37,7 @@ Parameters used:
 	•	Maximum: 63°C
 	•	Primer location: Exon–exon junction (to avoid genomic DNA amplification)
 	•	Specificity database: Human genome (Homo sapiens, taxid: 9606)
-	https://github.com/arijeet006/myist_activity/blob/66617cafc1cefa38065defd4c9db18a5280f4990/Screenshot%205.png
+	![Screenshot](https://github.com/arijeet006/myist_activity/blob/66617cafc1cefa38065defd4c9db18a5280f4990/Screenshot%205.png)
 
   # Results
 .Designed Primer Sequences
@@ -64,8 +65,8 @@ Melting temp        ~60°C                      ~59°C
 	•	No significant off-target binding detected in the human genome
 	•	No pseudogene or unintended amplification within a 2 kb range
 	•	Low self-complementarity → No primer-dimer formation
-https://github.com/arijeet006/myist_activity/blob/af9a94b945881a07c9ee481926a21a3b4fe11c87/Screenshot%206.png
-https://github.com/arijeet006/myist_activity/blob/bd897cb6061cbbe3ec1e20bdcdf37d53fb2f25ca/Screenshot%207.png
+![Screenshot](https://github.com/arijeet006/myist_activity/blob/af9a94b945881a07c9ee481926a21a3b4fe11c87/Screenshot%206.png)
+![Screenshot](https://github.com/arijeet006/myist_activity/blob/bd897cb6061cbbe3ec1e20bdcdf37d53fb2f25ca/Screenshot%207.png)
 
  # Final Specificity Statement
 
